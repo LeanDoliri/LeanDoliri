@@ -14,6 +14,7 @@ Me interesan los proyectos donde se cruzan la tecnología, el sonido y la experi
 **Herramientas**
 
 Desarrollo: Astro · Next.js · React · TypeScript · Laravel · PHP · Node.js · WordPress · Docker
+
 Sonido: Ableton Live · Pro Tools · Traktor · grabación, edición y mezcla
 
 Disponible para proyectos freelance de desarrollo y de sonido, también en remoto. [LinkedIn](https://www.linkedin.com/in/leandro-doliri/)
